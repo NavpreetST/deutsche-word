@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 
 import {commonWords} from './words.js'
 
-import './index.css'
+import './App.css'
 
 function App() {
 
